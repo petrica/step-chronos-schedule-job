@@ -1,0 +1,17 @@
+name: chronos-schedule-job
+version: 0.1.0
+description: A step to deploy json configuration files to a chronos instance
+keywords:
+  - chronos
+  - mesosphere
+  - mesos
+properties:
+  http-credentials:
+    type: string
+    required: false
+  chronos-url:
+    type: string
+    required: true
+  json-file:
+    type: string
+    required: true
