@@ -1,6 +1,6 @@
 name: chronos-schedule-job
 version: 0.1.0
-description: A step to deploy json configuration files to a chronos instance
+description: A step to schedule a job by posting a json configuration files to a chronos instance
 keywords:
   - chronos
   - mesosphere

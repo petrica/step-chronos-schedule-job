@@ -1,6 +1,6 @@
 # Schedule Job in Chronos
 
-This step allows you to schedule a job using a json file to a chronos instance. It requires `curl` to be installed on the container.
+This step allows you to schedule a job by posting a json file to a chronos instance. It requires `curl` to be installed on the container.
 
 The following paramaters are available:
 
